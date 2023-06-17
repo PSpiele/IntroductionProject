@@ -1,0 +1,6 @@
+  todo0: landing page
+    todo1: hero section (personal info)
+    todo2: resume page
+    todo3: projects of the past
+    todo4: about me 
+    todo5: contact me!

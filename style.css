@@ -1,0 +1,138 @@
+
+
+
+
+.flexbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0rem;
+
+}
+
+.Foto{
+border-radius: 50rem;
+
+}
+
+.body{
+    
+    background-color: #4EDDF520;
+    
+}
+
+a{
+    color: white; 
+    text-decoration-line: none
+}
+
+.footer{
+    padding: 3%;
+    background-color: #4EDDF540;
+    
+    
+    
+}
+
+.footer-text{
+    display: flex;
+    justify-content: right;
+    padding-right: 10%;
+
+
+}
+
+.text-p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+#carousel{
+    margin: 10%;
+}
+
+.text{
+    margin: 6rem;
+    }
+
+.Schrift{
+    
+    
+    
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    flex-shrink: 0;
+    flex-grow: 0;
+    font-size: 1.25rem;
+}
+
+.Bild{
+   margin: 4rem;
+   margin-top: 10%;
+   margin-bottom: 15%;
+   
+}
+
+a.nostyle:link {
+    text-decoration: inherit;
+    color: inherit;
+    
+}
+
+
+.Kontakt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    padding: 2%;
+    flex-shrink: 0;
+    min-width: 50%;
+    opacity: 1;
+    
+    
+    border: 1px black solid;
+}
+
+.KontaktText{
+    font-size: 2rem;
+
+}
+
+.KontaktBox {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 100vh;
+    background-image: url(./img/yuriy-kovalev-nN1HSDtKdlw-unsplash.jpg);
+    background-size:cover;
+    
+}
+
+.BoxVH{
+    height: 100vh;
+    
+}
+
+.FeatureBox{
+    margin-top: 10%;
+
+}
+
+.Uberschrift{
+    font-size: 2rem;
+    margin-top: 10%;
+
+}
+
+.ICON{
+    width: 3.5rem;
+    height: 3.5rem;
+}
+
+
